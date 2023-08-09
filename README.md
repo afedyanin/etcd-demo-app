@@ -6,7 +6,7 @@
 - [Quikstart](https://etcd.io/docs/v3.5/quickstart/)
 - [Docker ETCD cluster](https://github.com/garutilorenzo/docker-etcd-cluster/tree/master)
 - [C# gRPC client](https://github.com/shubhamranjan/dotnet-etcd)
-- [etcd browser](https://github.com/henszey/etcd-browser)
+- [Libraries and tools](https://etcd.io/docs/v3.5/integrations/)
 
 ## Run ETCD cluster
 
