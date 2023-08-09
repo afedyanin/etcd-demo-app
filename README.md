@@ -13,7 +13,7 @@
 docker-compose up -d
 ```
 
-## Ñheck the status of the cluster environment
+## Check the status of the cluster environment
 
 ```
 docker-compose ps
